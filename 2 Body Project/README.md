@@ -1,4 +1,4 @@
-## Simulation of the Artemis project Orbit from a 2 Body approach for the Celestial Mechanics course at the University of Antioquia (2026).
+## Simulation of the Artemis II project Orbit from a 2 Body approach for the Celestial Mechanics course at the University of Antioquia (2026).
 
 ## Authors
 

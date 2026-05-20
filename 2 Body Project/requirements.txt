@@ -1,3 +1,6 @@
 numpy
 matplotlib
 pymcel
+celluloid
+rebound
+IPython.display
