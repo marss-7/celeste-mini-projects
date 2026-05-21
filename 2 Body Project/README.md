@@ -6,4 +6,4 @@ Marhia José Granada Restrepo
 Briyid Vanessa Garcia Forero
 Juan Esteban Osorio Correa
 
-Video explicativo del proyecto disponible ([Aquí](https://www.youtube.com/))
+Video explicativo del proyecto disponible ([Aquí](https://www.youtube.com/watch?v=Jog4J53OW-s))
